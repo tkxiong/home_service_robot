@@ -1,4 +1,4 @@
-build/*
-devel/*
+build
+devel
 src/CMakeLists.txt
 .vscode
